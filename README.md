@@ -21,4 +21,4 @@ Projekty zostały podzielone na kluczowe obszary funkcjonalne:
 * Generowanie technicznej dokumentacji procesowej (PDF).
 
 ## 💡 Przykładowy Model
-![Przykładowy Model](./e-commerce/03_koszyk_platność_meres.png)
+![Przykładowy Model](./e-commerce/03_koszyk_płatność_meres.png)
